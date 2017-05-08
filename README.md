@@ -1,7 +1,7 @@
 # Simple-Website-Crawling-Using-Scrapy
 A simple use case for Scrapy
 
-Installation:
+Use:
 1. source activate
 2. pip install Scrapy
 3. scrapy startproject feedreader
